@@ -1,0 +1,33 @@
+.contacts {
+  margin: 20px;
+}
+.contactsSingle {
+  display: flex;
+  
+   padding: 0;
+  margin: 0;
+}
+.contactsList {
+padding-left: 10px;
+
+}
+.contactsSingle {
+  width: 300px;
+  padding-bottom: 10px;
+}
+.contactsInfo {
+    margin: 0; 
+    padding-right: 10px;
+}
+.contactsBtn {
+  background-color: #f1ecec;
+  border-radius: 5px;
+}
+.contactsBtn:hover {
+  background-color: #3c75e7;
+  color: #fff;
+}
+
+
+
+

@@ -1,0 +1,26 @@
+.form {
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.container {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px;
+}
+
+.formImput {
+  margin: 10px 0 20px;
+}
+.formBtn {
+  background-color: #fcf9f9;
+  border-radius: 5px;
+}
+
+.formBtn:hover {
+  background-color: #3c75e7;
+  color: #fff;
+}
